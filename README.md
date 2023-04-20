@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<h2>Привет! Меня зовут Нуриев Расул, я frontend-разработчик</h2>
 </div>
-<h3 align="center">Мои контакты:</h3> :telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/tevirphello">Telegram</a></b>  &nbsp
+:telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/tevirphello">Telegram</a></b>  &nbsp
 <hr>
 <div id="technologies" align="center" display="inline">
    <h3>Технологии, которыми я владею</h3>    
