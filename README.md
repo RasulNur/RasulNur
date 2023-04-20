@@ -1,23 +1,7 @@
 <div id="header" align="center">
-	<h2>Привеn! Меня зовут Нуриев Расул, я frontend-разработчик</h2>
-  
-  
+	<h2>Привет! Меня зовут Нуриев Расул, я frontend-разработчик</h2>
 </div>
-<h3 align="center">Мои контакты:</h3>
-<br>
-<li align="center">
- :desktop_computer: <b>Я изучаю Frontend-разработку</b> &nbsp; | &nbsp; 
-</li>
-<br>
-<li align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>&nbsp; <b>Знаю React</b> &nbsp; | &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp; <b>Знаю JavaScript</b>
-</li>
-<br>
-<li align="center">
-:bell: <b>Открыт к предложениям о работе</b>  &nbsp; | &nbsp;
-:telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/tevirphello">Telegram</a></b>  &nbsp
-</li>
+<h3 align="center">Мои контакты:</h3> :telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/tevirphello">Telegram</a></b>  &nbsp
 <hr>
 <div id="technologies" align="center" display="inline">
    <h3>Технологии, которыми я владею</h3>    
