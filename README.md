@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<h2>Привеn! Меня зовут Нуриев Расул, я frontend-разработчик</h2>
   
-  <hr>
+  
 </div>
 <h3 align="center">Мои контакты:</h3>
 <br>
