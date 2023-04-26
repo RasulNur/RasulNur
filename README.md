@@ -8,6 +8,10 @@
 	Хоть у меня и есть преимущество в виде моего отца (всегда можно попросить его о помощи), всегда стараюсь разобраться в проблеме сам и самостоятельно найти решение.
 </p>
 <p align="center">
+	Резюме: https://drive.google.com/file/d/1knJK47sNe6KJwb-wKsNpdcjyhUBp-lJo/view?usp=sharing
+</p>
+
+<p align="center">
 	:telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/tevirphello">Telegram</a></b>  &nbsp
 </p>
 <div id="technologies" align="center" display="inline">
