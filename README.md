@@ -7,16 +7,8 @@
 <hr>
 <div id="technologies" align="center" display="inline">
    <h3>Технологии, которыми я владею</h3>    
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,sass,express,mongodb,nodejs,figma" />
+   <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,git,html,css,js,figma,postman" />
 </div>
-<hr>
-<h3 align="center">Статистика профиля</h3>
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasulNur&theme=slateorange"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RasulNur&theme=slateorange"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasulNur&theme=slateorange"/>
-</div>
-<hr>
 
 
 
