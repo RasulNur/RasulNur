@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	Резюме: https://drive.google.com/file/d/1knJK47sNe6KJwb-wKsNpdcjyhUBp-lJo/view?usp=sharing
+	Резюме: https://drive.google.com/file/d/1qGAvQw0kLGhkDkhZBXasBq0_z9Ke_uTx/view?usp=drive_link
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 <div id="technologies" align="center" display="inline">
 	<h3>Технологии, которыми я владею</h3>    
-	<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,git,html,css,js,figma,postman" />
+	<img src="https://skillicons.dev/icons?i=react,ts,redux,nodejs,express,mongodb,git,html,css,js,figma,postman" />
 </div>
 
 
