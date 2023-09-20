@@ -3,11 +3,7 @@
 </div>
 
 <p align="center">
-	Резюме: https://drive.google.com/file/d/188V2oEH1kTRasbIj0AoyxXC243y_aZPD/view?usp=drive_link
-</p>
-
-<p align="center">
-	Codewars: https://www.codewars.com/users/Rasulnrr
+	Резюме: https://drive.google.com/file/d/1dmmXZ3olAeQ-KpEctkWzTR2Fz8hy6uw5/view?usp=sharing
 </p>
 
 <p align="center">
