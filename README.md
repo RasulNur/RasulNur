@@ -11,7 +11,7 @@
 </p>
 <div id="technologies" align="center" display="inline">
 	<h3>Технологии, которыми я владею</h3>    
-	<img src="https://skillicons.dev/icons?i=next,react,ts,tailwind,redux,git,html,css,js,figma,postman" />
+	<img src="https://skillicons.dev/icons?i=next,react,ts,tailwind,git,html,css,js,figma,postman" />
 </div>
 
 
