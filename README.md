@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	Резюме: [https://drive.google.com/file/d/1BSzx2bs9nwd-I-ZpYlAMxcv9oHMkH-pl/view?usp=sharing](https://drive.google.com/file/d/1_vMxJIMKqparaTDG-nkaWwdx4NeuOj-w/view?usp=sharing)
+	Резюме: https://drive.google.com/file/d/1_vMxJIMKqparaTDG-nkaWwdx4NeuOj-w/view?usp=sharing
 </p>
 
 <p align="center">
