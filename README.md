@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+	Портфолио: https://nuriev.uz/
+</p>
+
+<p align="center">
 	:telephone_receiver: <b>Связь со мной:</b> &nbsp; <b><a href="https://t.me/tevirphello">Telegram</a></b>  &nbsp
 </p>
 <div id="technologies" align="center" display="inline">
