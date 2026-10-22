@@ -3,7 +3,11 @@
 </div>
 
 <p align="center">
-	Резюме: https://drive.google.com/file/d/1oFXibVdcCp_tKkarVvsJRw3nVc348OWS/view?usp=sharing
+	Сайт: https://nuriev.uz/
+</p>
+
+<p align="center">
+	Резюме: https://drive.google.com/file/d/17j_F4CMm6u07pGQ1izRngT3wM3pFMkri/view?usp=sharing
 </p>
 
 <p align="center">
